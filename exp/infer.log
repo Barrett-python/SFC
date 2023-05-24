@@ -1,0 +1,2 @@
+{'network': 'network.resnet50_SIPE_Best', 'num_workers': 20, 'session_name': 'exp', 'ckpt': 'best.pth', 'visualize': True, 'dataset': 'voc'}
+[ ]
