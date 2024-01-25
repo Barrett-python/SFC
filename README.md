@@ -36,5 +36,10 @@ To train fully supervised segmentation models, we refer to [deeplab-pytorch](htt
 
 ## Citation
 ```
-
+@article{zhao2024sfc,
+  title={SFC: Shared Feature Calibration in Weakly Supervised Semantic Segmentation},
+  author={Zhao, Xinqiao and Tang, Feilong and Wang, Xiaoyang and Xiao, Jimin},
+  journal={arXiv preprint arXiv:2401.11719},
+  year={2024}
+}
 ```
