@@ -20,7 +20,7 @@ Image-level weakly supervised semantic segmentation has received increasing atte
 - PASCAL VOC 2012: [Download](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/).
 - MS COCO 2014: [Image](https://cocodataset.org/#home) and [Label](https://drive.google.com/file/d/1Pm_OH8an5MzZh56QKTcdlXNI3RNmZB9d/view?usp=sharing).
 
-#### Step 2. Train SIPE
+#### Step 2. Train SFC
 
 ```bash
 # PASCAL VOC 2012
