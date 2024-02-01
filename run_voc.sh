@@ -2,7 +2,7 @@
 # Step 1. Train SFC for localization maps.
 
 # 1.1 train SFC
-# CUDA_VISIBLE_DEVICES=0 python train_resnet50_SFC.py
+CUDA_VISIBLE_DEVICES=0 python train_resnet50_SFC.py
 ## # 1.2 obtain localization maps
 CUDA_VISIBLE_DEVICES=0,1,2,3 python make_cam.py
 #### # 1.3 evaluate localization maps
