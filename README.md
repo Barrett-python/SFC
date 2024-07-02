@@ -36,12 +36,13 @@ To train fully supervised segmentation models, we refer to [deeplab-pytorch](htt
 
 ## Citation
 ```
-@inproceedings{wang2022stepwise,
-  title={Stepwise feature fusion: Local guides global},
-  author={Wang, Jinfeng and Huang, Qiming and Tang, Feilong and Meng, Jia and Su, Jionglong and Song, Sifan},
-  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
-  pages={110--120},
-  year={2022},
-  organization={Springer}
+@inproceedings{zhao2024sfc,
+  title={Sfc: Shared feature calibration in weakly supervised semantic segmentation},
+  author={Zhao, Xinqiao and Tang, Feilong and Wang, Xiaoyang and Xiao, Jimin},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={7},
+  pages={7525--7533},
+  year={2024}
 }
 ```
